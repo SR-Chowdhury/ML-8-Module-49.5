@@ -1,0 +1,32 @@
+[
+    {
+      "id": "6420cb830b627198d2c3e1b8",
+      "name": "Armstrong Dalton",
+      "gender": "male"
+    },
+    {
+      "id": "6420cb837b518b379b400ed6",
+      "name": "Stevenson Rivera",
+      "gender": "male"
+    },
+    {
+      "id": "6420cb83f85c44669078a7c1",
+      "name": "Penny Poole",
+      "gender": "female"
+    },
+    {
+      "id": "6420cb83db6fad653f2a24b0",
+      "name": "Jordan Dunlap",
+      "gender": "male"
+    },
+    {
+      "id": "6420cb8391a17ec1e1ffa85d",
+      "name": "Michele Evans",
+      "gender": "female"
+    },
+    {
+      "id": "6420cb83f7b9db71c14f519c",
+      "name": "Darlene Trevino",
+      "gender": "female"
+    }
+  ]
