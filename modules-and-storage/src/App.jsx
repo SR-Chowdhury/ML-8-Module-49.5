@@ -5,6 +5,8 @@ import Cosmetics from './components/Cosmetics/Cosmetics'
 import HandlerParameter from './components/EventHandler/HandlerParameter'
 import Persons from './components/Persons/Persons'
 import Products from './components/Products/Products'
+import ArrayReduce from './components/Reduce/ArrayReduce'
+import ObjectReduce from './components/Reduce/ObjectReduce'
 
 function App() {
 
@@ -22,9 +24,12 @@ function App() {
       {/* 49-5-5 Intro to local storage to store data just one time */}
       {/* <Cosmetics /> */}
 
-      {/* 49-5-6 */}
-      <Argos />
+      {/* 49-5-6 to 7 */}
+      {/* <Argos /> */}
 
+      {/* 49-5-8 */}
+      <ArrayReduce />
+      <ObjectReduce />
     </div>
   )
 }
